@@ -8,7 +8,7 @@
 # que permitan controlar una aplicación estilo "Paint" 
 #########################
  
-# La rutina `gestos` requiere más conocimientos de álgebra
+# La rutina `calcula_gestos` requiere más conocimientos de álgebra
 # lineal que de Python.
 def calcula_gestos(puntos):
     # `puntos` es una matriz de 21 x 3
